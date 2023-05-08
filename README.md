@@ -1,1 +1,4 @@
-# carolina
+# carolina 
+
+- estou estudando pelo alura 
+-
